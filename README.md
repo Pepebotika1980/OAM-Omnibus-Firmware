@@ -1,4 +1,4 @@
-# OAM Time Machine Firmware - OMNIBUS EDITION v1.0
+# OAM Time Machine Alternative Firmware - OMNIBUS EDITION v1.0
 
 
 
