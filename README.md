@@ -94,5 +94,5 @@ Este modo carga **exactamente** el firmware original del Time Machine. Todas las
 *   **Entradas CV:** Funcionan exactamente igual que en el diseño original.
 
 ---
-**Desarrollado por OAM Firmware Division.**
+
 *Disfruta de tu viaje en el tiempo.*
