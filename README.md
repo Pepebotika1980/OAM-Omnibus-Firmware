@@ -1,6 +1,6 @@
 # OAM Time Machine Firmware - OMNIBUS EDITION v1.0
 
-![OAM Time Machine](https://i.imgur.com/example.jpg) *[Inserte foto del panel aquí]*
+
 
 ## Introducción
 Este es el firmware definitivo para el módulo OAM Time Machine. Consolida **5 motores de sonido diferentes** en un solo archivo. Ya no necesitas reprogramar el módulo para cambiar de efecto; simplemente selecciona el modo deseado al encenderlo.
